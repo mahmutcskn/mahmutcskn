@@ -27,6 +27,13 @@
     - ⚡ Fun fact: I love spend my free time on learning cyber security
   </div>
 </p>
+<hr>
+</hr>
+<div align=center>
+    <h5 align=center>
+      ⚒️ Languages-Frameworks-Tools ⚒️
+    </h3>
+  </div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github,py,raspberrypi,tensorflow,unity,unreal,visualstudio,vscode,wordpress" />
