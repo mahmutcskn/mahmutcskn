@@ -30,10 +30,11 @@
 <hr>
 </hr>
 <div align=center>
-    <h1 align=center>
+    <h2 align=center>
       ⚒️ Languages-Frameworks-Tools ⚒️
-    </h1>
+    </h2>
   </div>
+  <br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github,py,raspberrypi,tensorflow,unity,unreal,visualstudio,vscode,wordpress" />
