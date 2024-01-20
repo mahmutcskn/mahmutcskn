@@ -3,11 +3,9 @@
 <hr>
 </hr>
 <p>
-  <div align=center>
-    <h3 align=center>
-      A passionate software developer
-    </h3>
-  </div>
+  <h3 align=center>
+    A passionate software developer
+  </h3>
   <div align=center>
     - 🔭 I’m currently working on ASP.NET Core
   </div>
@@ -29,15 +27,18 @@
 </p>
 <hr>
 </hr>
-<div align=center>
-    <h2 align=center>
-      ⚒️ Languages-Frameworks-Tools ⚒️
-    </h2>
-  </div>
+<h2 align=center>
+    ⚒️ Languages-Frameworks-Tools ⚒️
+  </h2>
   <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github,py,raspberrypi,tensorflow,unity,unreal,visualstudio,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,raspberrypi,tensorflow,unity,unreal,visualstudio,vscode,wordpress" />
   </a>
 </p>
 
