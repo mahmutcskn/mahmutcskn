@@ -27,7 +27,6 @@
     - ⚡ Fun fact: I love spend my free time on learning cyber security
   </div>
 </p>
-<hr>
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github,py,raspberrypi,tensorflow,unity,unreal,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 <!--
