@@ -5,24 +5,24 @@
 <br>
 <p>
   
-  <div text-align:center>
-    <h3 text-align:center>
+  <div align:center>
+    <h3 align:center>
       A passionate software developer
     </h3>
   </div>
-  <div text-align:center>
+  <div align:center>
     - 🔭 I’m currently working on ...
   </div>
-  <div text-align:center>
+  <div align:center>
     - 🌱 I’m currently learning ...
   </div>
-  <div text-align:center>
+  <div align:center>
     - 🤔 I’m looking for help with ...
   </div>
-  <div text-align:center>
+  <div align:center>
     - 📫 How to reach me: ...
   </div>
-  <div text-align:center>
+  <div align:center>
     - 😄 Pronouns: ...
   </div>
   <div>
