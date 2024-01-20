@@ -4,19 +4,29 @@
 </hr>
 <br>
 <p>
-  <h3>
-    A passionate software developer
-  </h3>
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 🤔 I’m looking for help with ...
+  
+  <div>
+    <h3>
+      A passionate software developer
+    </h3>
+  </div>
+  <div>
+    - 🔭 I’m currently working on ...
+  </div>
+  <div>
+    - 🌱 I’m currently learning ...
+  </div>
+  <div>
+    - 🤔 I’m looking for help with ...
+  </div>
+  
+  
+  
   - 📫 How to reach me: ...
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
 </p>
-<br>
 <hr>
-<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <!--
