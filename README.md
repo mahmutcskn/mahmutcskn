@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2027F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi+There;My+name+is+Mahmut" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Hi+There;My+name+is+Mahmut" alt="Typing SVG" /></a>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github,py,raspberrypi,tensorflow,unity,unreal,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
