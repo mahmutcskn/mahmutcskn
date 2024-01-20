@@ -23,7 +23,7 @@
   <div align=center>
     - 😄 Pronouns: he/him
   </div>
-  <div>
+  <div align=center>
     - ⚡ Fun fact: I love spend my free time on learning cyber security
   </div>
 </p>
