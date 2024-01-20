@@ -30,9 +30,9 @@
 <hr>
 </hr>
 <div align=center>
-    <h5 align=center>
+    <h1 align=center>
       ⚒️ Languages-Frameworks-Tools ⚒️
-    </h3>
+    </h1>
   </div>
 <p align="center">
   <a href="https://skillicons.dev">
