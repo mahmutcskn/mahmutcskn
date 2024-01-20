@@ -5,29 +5,31 @@
 <br>
 <p>
   
-  <div>
-    <h3>
+  <div text-align:center>
+    <h3 text-align:center>
       A passionate software developer
     </h3>
   </div>
-  <div>
+  <div text-align:center>
     - 🔭 I’m currently working on ...
   </div>
-  <div>
+  <div text-align:center>
     - 🌱 I’m currently learning ...
   </div>
-  <div>
+  <div text-align:center>
     - 🤔 I’m looking for help with ...
   </div>
-  
-  
-  
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
+  <div text-align:center>
+    - 📫 How to reach me: ...
+  </div>
+  <div text-align:center>
+    - 😄 Pronouns: ...
+  </div>
+  <div>
+    - ⚡ Fun fact: ...
+  </div>
 </p>
 <hr>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **ctrlActrlV/ctrlActrlV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,6 +44,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github,py,raspberrypi,tensorflow,unity,unreal,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
