@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hi+There+👋;I'm+Mahmut!" alt="Typing SVG" /></a>
