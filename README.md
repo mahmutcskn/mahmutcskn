@@ -3,8 +3,8 @@
 <hr>
 </hr>
 <br>
-<pre>
-  <h3 align:center dir ="auto">
+<p>
+  <h3>
     A passionate software developer
   </h3>
   - 🔭 I’m currently working on ...
@@ -13,7 +13,7 @@
   - 📫 How to reach me: ...
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
-</pre>
+</p>
 <br>
 <hr>
 <br>
