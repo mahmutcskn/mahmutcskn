@@ -2,31 +2,29 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hi+There+👋;I'm+Mahmut!" alt="Typing SVG" /></a>
 <hr>
 </hr>
-<br>
 <p>
-  
   <div align=center>
     <h3 align=center>
       A passionate software developer
     </h3>
   </div>
   <div align=center>
-    - 🔭 I’m currently working on ...
+    - 🔭 I’m currently working on ASP.NET Core
   </div>
   <div align=center>
-    - 🌱 I’m currently learning ...
+    - 🌱 I’m currently learning C#
   </div>
   <div align=center>
-    - 🤔 I’m looking for help with ...
+    - 🤔 I’m looking for help with C#
   </div>
   <div align=center>
-    - 📫 How to reach me: ...
+    - 📫 How to reach me: mahmutcoskunmailbox@gmail.com
   </div>
   <div align=center>
-    - 😄 Pronouns: ...
+    - 😄 Pronouns: he/him
   </div>
   <div>
-    - ⚡ Fun fact: ...
+    - ⚡ Fun fact: I love spend my free time on learning cyber security
   </div>
 </p>
 <hr>
