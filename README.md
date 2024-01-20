@@ -5,9 +5,6 @@
 <hr>
 </hr>
 <br>
-<br>
-<br>
-<br>
 <pre>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,6 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 </pre>
+<br>
 <hr>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
