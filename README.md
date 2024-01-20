@@ -1,4 +1,6 @@
 ### Hi there 👋
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There;My+name+is+Mahmut)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github,py,raspberrypi,tensorflow,unity,unreal,visualstudio,vscode,wordpress)](https://skillicons.dev)
