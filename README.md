@@ -14,7 +14,6 @@
 - ⚡ Fun fact: ...
 </pre>
 <hr>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github,py,raspberrypi,tensorflow,unity,unreal,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
@@ -32,6 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github,py,raspberrypi,tensorflow,unity,unreal,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There;My+name+is+Mahmut)](https://git.io/typing-svg)
 -->
