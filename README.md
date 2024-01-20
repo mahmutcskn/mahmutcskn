@@ -4,9 +4,9 @@
 </hr>
 <br>
 <pre>
-  <h2>
+  <h3 align:center dir ="auto">
     A passionate software developer
-  </h2>
+  </h3>
   - 🔭 I’m currently working on ...
   - 🌱 I’m currently learning ...
   - 🤔 I’m looking for help with ...
