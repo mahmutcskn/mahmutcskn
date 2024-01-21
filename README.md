@@ -59,8 +59,7 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrlActrlV)](https://github.com/ctrlActrlV/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlActrlV&layout=donut-vertical)](https://github.com/ctrlActrlV/github-readme-stats)
-<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlActrlV&layout=donut)](https://github.com/ctrlActrlV/github-readme-stats)<div>
   
 </div>
 
