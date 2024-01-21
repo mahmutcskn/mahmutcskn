@@ -58,14 +58,14 @@
   </div>
   
 
-  <div>
-    <a href="https://git.io/streak-stats">
-      <img width=550 height=200 align=center src="https://streak-stats.demolab.com?user=ctrlActrlV&theme=transparent&border_radius=9" alt="GitHub Streak" />
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img width=550 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-    </a>
-  </div>
+
+  <a href="https://git.io/streak-stats">
+    <img align=center src="https://streak-stats.demolab.com?user=ctrlActrlV&theme=transparent&border_radius=9" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img walign="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  </a>
+
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlActrlV&layout=donut)](https://github.com/ctrlActrlV/github-readme-stats)
 
