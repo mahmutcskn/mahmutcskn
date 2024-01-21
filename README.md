@@ -54,10 +54,10 @@
     🐍 My Contributions 🐍
   </h2>
   <div>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=ctrlActrlV)](https://git.io/streak-stats)  
+    
 
   </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ctrlActrlV)](https://git.io/streak-stats)  
 
 
 
