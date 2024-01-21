@@ -55,11 +55,11 @@
   </h2>
   <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ctrlActrlV&theme=transparent&border_radius=9" alt="GitHub Streak" /></a>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlActrlV&layout=donut)](https://github.com/ctrlActrlV/github-readme-stats)<div>
+
   </div>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrlActrlV)](https://github.com/ctrlActrlV/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlActrlV&layout=donut)](https://github.com/ctrlActrlV/github-readme-stats)<div>
   
 </div>
 
@@ -67,6 +67,9 @@
 **ctrlActrlV/ctrlActrlV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrlActrlV)](https://github.com/ctrlActrlV/github-readme-stats)
+
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
