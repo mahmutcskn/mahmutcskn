@@ -24,6 +24,7 @@
   <div align=center>
     - ⚡ Fun fact: I love spend my free time on learning cyber security
   </div>
+  <br>
 </p>
 <div align=center>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
