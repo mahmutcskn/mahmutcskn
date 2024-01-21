@@ -53,19 +53,13 @@
   <h2 align=center>
     🐍 My Contributions 🐍
   </h2>
-  <div>
+  <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ctrlActrlV&theme=transparent&border_radius=9" alt="GitHub Streak" /></a>
-
   </div>
-<div>
-    <a href="https://github.com/ctrlActrlV/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrlActrlV&repo=github-readme-stats" />
-    </a>
-    <a href="https://github.com/ctrlActrlV/convoychat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrlActrlV&repo=convoychat" />
-    </a>
-</div>
+  
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -77,6 +71,14 @@
 **ctrlActrlV/ctrlActrlV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<div>
+    <a href="https://github.com/ctrlActrlV/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrlActrlV&repo=github-readme-stats" />
+    </a>
+    <a href="https://github.com/ctrlActrlV/convoychat">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrlActrlV&repo=convoychat" />
+    </a>
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ctrlActrlV)](https://git.io/streak-stats)  
 
