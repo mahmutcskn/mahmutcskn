@@ -58,10 +58,10 @@
 
   </div>
 <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/ctrlActrlV/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrlActrlV&repo=github-readme-stats" />
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
+    <a href="https://github.com/ctrlActrlV/convoychat">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrlActrlV&repo=convoychat" />
     </a>
 </div>
