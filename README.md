@@ -6,24 +6,24 @@
   <h3 align=center>
     A passionate software developer
   </h3>
-  <div align=center>
+  <h5 align=center>
     - 🔭 I’m currently working on ASP.NET Core
-  </div>
-  <div align=center>
+  </h5>
+  <h5 align=center>
     - 🌱 I’m currently learning C#
-  </div>
-  <div align=center>
+  </h5>
+  <h5 align=center>
     - 🤔 I’m looking for help with C#
-  </div>
-  <div align=center>
+  </h5>
+  <h5 align=center>
     - 📫 How to reach me: mahmutcoskunmailbox@gmail.com
-  </div>
-  <div align=center>
+  </h5>
+  <h5 align=center>
     - 😄 Pronouns: he/him
-  </div>
-  <div align=center>
+  </h5>
+  <h5 align=center>
     - ⚡ Fun fact: I love spend my free time on learning cyber security
-  </div>
+  </h5>
   <br>
 </p>
 <div align=center>
@@ -51,7 +51,7 @@
 <hr>
 </hr>
   <h2 align=center>
-    🐍 My Contributions 🐍
+    ⚡ Stats ⚡
   </h2>  
 
 <div align=center>
