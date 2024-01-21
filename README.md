@@ -57,7 +57,6 @@
 
   </div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlActrlV&layout=donut)](https://github.com/ctrlActrlV/github-readme-stats)
 
   <div>
     <a href="https://git.io/streak-stats">
@@ -68,6 +67,7 @@
     </a>
   </div>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlActrlV&layout=donut)](https://github.com/ctrlActrlV/github-readme-stats)
 
   
 
