@@ -52,9 +52,7 @@
 </hr>
   <h2 align=center>
     🐍 My Contributions 🐍
-  </h2>
-    <br>
-  
+  </h2>  
 
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
