@@ -57,6 +57,15 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ctrlActrlV&theme=transparent&border_radius=9" alt="GitHub Streak" /></a>
 
   </div>
+<div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrlActrlV&repo=github-readme-stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrlActrlV&repo=convoychat" />
+    </a>
+</div>
+
 
 
 
