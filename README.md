@@ -41,6 +41,12 @@
     <img src="https://skillicons.dev/icons?i=py,raspberrypi,tensorflow,unity,unreal,visualstudio,vscode,wordpress" />
   </a>
 </p>
+<br>
+<hr>
+</hr>
+<h2 align=center>
+    🐍 My Contributions 🐍
+  </h2>
 
 <!--
 **ctrlActrlV/ctrlActrlV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
