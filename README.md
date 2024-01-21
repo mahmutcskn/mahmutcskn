@@ -64,7 +64,7 @@
       <img src="https://streak-stats.demolab.com?user=ctrlActrlV&theme=transparent&border_radius=9" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/ctrlActrlV/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctrlActrlV&layout=compact&langs_count=8&card_width=320" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlActrlV&layout=donut)](https://github.com/ctrlActrlV/github-readme-stats" />
     </a>
   </div>
 
