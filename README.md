@@ -60,8 +60,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrlActrlV)](https://github.com/ctrlActrlV/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctrlActrlV)](https://github.com/ctrlActrlV/github-readme-stats)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctrlActrlV)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
