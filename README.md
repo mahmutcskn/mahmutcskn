@@ -25,6 +25,9 @@
     - ⚡ Fun fact: I love spend my free time on learning cyber security
   </div>
 </p>
+<div>
+  <img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
+</div>
 <hr>
 </hr>
 <h2 align=center>
@@ -47,13 +50,16 @@
 <h2 align=center>
     🐍 My Contributions 🐍
   </h2>
-- name: generate github-contribution-grid-snake.svg
+  <div>
+    - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.ctrlActrlV }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+  </div>
 
 
 
