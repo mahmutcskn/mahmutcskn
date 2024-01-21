@@ -50,14 +50,13 @@
 <br>
 <hr>
 </hr>
-<h2 align=center>
+  <h2 align=center>
     🐍 My Contributions 🐍
   </h2>
   <div>
-    
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ctrlActrlV&theme=transparent&border_radius=9" alt="GitHub Streak" /></a>
 
   </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ctrlActrlV)](https://git.io/streak-stats)  
 
 
 
@@ -69,6 +68,9 @@
 **ctrlActrlV/ctrlActrlV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ctrlActrlV)](https://git.io/streak-stats)  
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
