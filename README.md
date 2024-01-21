@@ -56,18 +56,15 @@
     <div align=center>
 
   </div>
-  <div align=center>
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ctrlActrlV&theme=transparent&border_radius=9" alt="GitHub Streak" /></a>
-  </div>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlActrlV&layout=donut)](https://github.com/ctrlActrlV/github-readme-stats)
 
   <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=ctrlActrlV&theme=transparent&border_radius=9" alt="GitHub Streak" />
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+    <a href="https://github.com/ctrlActrlV/convoychat">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctrlActrlV&layout=compact&langs_count=8&card_width=320" />
     </a>
   </div>
 
@@ -75,6 +72,12 @@
   
 
 <!--
+
+<div align=center>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ctrlActrlV&theme=transparent&border_radius=9" alt="GitHub Streak" /></a>
+  </div>
+
+  
 **ctrlActrlV/ctrlActrlV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
