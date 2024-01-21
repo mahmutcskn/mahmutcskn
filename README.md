@@ -55,8 +55,8 @@
   </h2>  
 
 <div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctrlActrlV&layout=compact&langs_count=8&card_width=320" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ctrlActrlV&theme=transparent&border_radius=15&card_width=500" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/ctrlActrlV/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctrlActrlV&layout=compact&langs_count=8&card_width=320" />
@@ -69,6 +69,16 @@
   
 
 <!--
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ctrlActrlV&theme=transparent&border_radius=15&card_width=500" alt="GitHub Streak" /></a>
+
+
+
+
+
+
+
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctrlActrlV&layout=compact&langs_count=8&card_width=320" />
 
 <div align=center>
