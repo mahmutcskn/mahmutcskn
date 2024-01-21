@@ -61,7 +61,7 @@
     <img align=center src="https://streak-stats.demolab.com?user=ctrlActrlV&theme=transparent&border_radius=9" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/ctrlActrlV/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctrlActrlV&layout=compact&langs_count=8&card_width=320" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats" />
   </a>
 </div>
   
@@ -71,6 +71,7 @@
   
 
 <!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctrlActrlV&layout=compact&langs_count=8&card_width=320" />
 
 <div align=center>
         <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ctrlActrlV&theme=transparent&border_radius=9" alt="GitHub Streak" /></a>
