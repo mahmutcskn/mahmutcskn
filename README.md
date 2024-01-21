@@ -25,8 +25,9 @@
     - ⚡ Fun fact: I love spend my free time on learning cyber security
   </div>
 </p>
-  ![image](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
-
+<div>
+  <img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" />
+</div>
 <hr>
 </hr>
 <h2 align=center>
